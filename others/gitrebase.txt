@@ -1,0 +1,1 @@
+http://jitanghu.me/blog/modify-git-commit-history-by-git-rebase-i.html
